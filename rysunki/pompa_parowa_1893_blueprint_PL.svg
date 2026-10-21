@@ -1,0 +1,346 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1600" viewBox="0 0 2400 1600">
+<defs>
+<pattern id="h" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="10" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.7"/></pattern>
+<pattern id="brick" width="60" height="30" patternUnits="userSpaceOnUse"><path d="M0 0H60M0 15H60M0 0V15M30 15V30" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.5" fill="none"/></pattern>
+<pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" stroke="#ffffff" stroke-opacity="0.05" fill="none"/></pattern>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0 1L10 5L0 9Z" fill="#f2f6fb"/></marker>
+<marker id="dm" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M0 2L10 5L0 8Z" fill="#f2f6fb"/></marker>
+</defs>
+<rect width="2400" height="1600" fill="#16467f"/><rect width="2400" height="1600" fill="url(#grid)"/>
+<rect x="30" y="30" width="2340" height="1540" rx="0" fill="none" stroke="#f2f6fb" stroke-width="3" stroke-opacity="1"/>
+<rect x="42" y="42" width="2316" height="1516" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="1"/>
+<path d="M600 982H2260V1150H600Z" fill="url(#brick)"/>
+<path d="M600 980H2260V1150H600Z" fill="none" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M95 980V1160H745V980" fill="none" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M80 980H95V1175H760V980H745V1160H95Z" fill="url(#h)"/>
+<path d="M80 980H95V1175H760V980" fill="none" stroke="#f2f6fb" stroke-width="1.5" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="50" y1="980" x2="80" y2="980" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="760" y1="980" x2="600" y2="980" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="2260" y1="980" x2="2350" y2="980" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="2270" y1="980" x2="2260" y2="990" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.7" stroke-linecap="round"/>
+<line x1="2284" y1="980" x2="2274" y2="990" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.7" stroke-linecap="round"/>
+<line x1="2298" y1="980" x2="2288" y2="990" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.7" stroke-linecap="round"/>
+<line x1="2312" y1="980" x2="2302" y2="990" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.7" stroke-linecap="round"/>
+<line x1="2326" y1="980" x2="2316" y2="990" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.7" stroke-linecap="round"/>
+<line x1="2340" y1="980" x2="2330" y2="990" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.7" stroke-linecap="round"/>
+<line x1="52" y1="980" x2="42" y2="990" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.7" stroke-linecap="round"/>
+<line x1="66" y1="980" x2="56" y2="990" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.7" stroke-linecap="round"/>
+<line x1="360" y1="950" x2="360" y2="1130" stroke="#f2f6fb" stroke-width="2" stroke-opacity="0.8" stroke-dasharray="10 6" stroke-linecap="round"/>
+<rect x="348" y="1125" width="24" height="10" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.5" stroke-opacity="1"/>
+<line x1="480" y1="950" x2="480" y2="1130" stroke="#f2f6fb" stroke-width="2" stroke-opacity="0.8" stroke-dasharray="10 6" stroke-linecap="round"/>
+<rect x="468" y="1125" width="24" height="10" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.5" stroke-opacity="1"/>
+<line x1="700" y1="950" x2="700" y2="1130" stroke="#f2f6fb" stroke-width="2" stroke-opacity="0.8" stroke-dasharray="10 6" stroke-linecap="round"/>
+<rect x="688" y="1125" width="24" height="10" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.5" stroke-opacity="1"/>
+<line x1="1060" y1="950" x2="1060" y2="1130" stroke="#f2f6fb" stroke-width="2" stroke-opacity="0.8" stroke-dasharray="10 6" stroke-linecap="round"/>
+<rect x="1048" y="1125" width="24" height="10" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.5" stroke-opacity="1"/>
+<line x1="1360" y1="950" x2="1360" y2="1130" stroke="#f2f6fb" stroke-width="2" stroke-opacity="0.8" stroke-dasharray="10 6" stroke-linecap="round"/>
+<rect x="1348" y="1125" width="24" height="10" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.5" stroke-opacity="1"/>
+<line x1="1880" y1="950" x2="1880" y2="1130" stroke="#f2f6fb" stroke-width="2" stroke-opacity="0.8" stroke-dasharray="10 6" stroke-linecap="round"/>
+<rect x="1868" y="1125" width="24" height="10" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.5" stroke-opacity="1"/>
+<line x1="2040" y1="950" x2="2040" y2="1130" stroke="#f2f6fb" stroke-width="2" stroke-opacity="0.8" stroke-dasharray="10 6" stroke-linecap="round"/>
+<rect x="2028" y="1125" width="24" height="10" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.5" stroke-opacity="1"/>
+<line x1="2160" y1="950" x2="2160" y2="1130" stroke="#f2f6fb" stroke-width="2" stroke-opacity="0.8" stroke-dasharray="10 6" stroke-linecap="round"/>
+<rect x="2148" y="1125" width="24" height="10" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.5" stroke-opacity="1"/>
+<rect x="1300" y="1050" width="620" height="70" rx="0" fill="#16467f" stroke="#f2f6fb" stroke-width="1.5" stroke-opacity="1" stroke-dasharray="12 6"/>
+<text x="1610" y="1142" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="0.8" text-anchor="middle" font-weight="normal" letter-spacing="0">Kanał ssawny</text>
+<path d="M330 980V870L380 855H460L520 870H640V860H860V870H900V885H1090V980" fill="none" stroke="#f2f6fb" stroke-width="2.2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M520 980V900Q580 880 640 900V980" fill="none" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="375" y="785" width="90" height="70" rx="0" fill="none" stroke="#f2f6fb" stroke-width="2.2" stroke-opacity="1"/>
+<line x1="370" y1="785" x2="470" y2="785" stroke="#f2f6fb" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round"/>
+<rect x="392" y="768" width="56" height="17" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.8" stroke-opacity="1"/>
+<circle cx="420" cy="820" r="30" fill="none" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1"/>
+<circle cx="420" cy="820" r="300" fill="none" stroke="#f2f6fb" stroke-width="3.2" stroke-opacity="1"/>
+<circle cx="420" cy="820" r="272" fill="none" stroke="#f2f6fb" stroke-width="1.8" stroke-opacity="1"/>
+<circle cx="420" cy="820" r="52" fill="none" stroke="#f2f6fb" stroke-width="2.2" stroke-opacity="1"/>
+<path d="M471.8 843.2L679.2 895.7M476.4 825.8L682.4 884.1" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M425.8 876.4L484.1 1082.4M443.2 871.8L495.7 1079.2" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M374.0 853.2L224.8 1006.7M386.8 866.0L233.3 1015.2" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M368.2 796.8L160.8 744.3M363.6 814.2L157.6 755.9" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M414.2 763.6L355.9 557.6M396.8 768.2L344.3 560.8" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M466.0 786.8L615.2 633.3M453.2 774.0L606.7 624.8" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="420" cy="820" r="22" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1"/>
+<line x1="90" y1="820" x2="750" y2="820" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.5" stroke-dasharray="30 8 6 8" stroke-linecap="round"/>
+<line x1="420" y1="490" x2="420" y2="1180" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.5" stroke-dasharray="30 8 6 8" stroke-linecap="round"/>
+<path d="M406 830L452 766L474 788L434 834Z" fill="#16467f" stroke="#f2f6fb" stroke-width="2.2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="462.42640687119285" cy="777.5735931288071" r="11" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1"/>
+<circle cx="420" cy="820" r="36" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-dasharray="6 4"/>
+<rect x="640" y="792" width="220" height="56" rx="0" fill="none" stroke="#f2f6fb" stroke-width="2.2" stroke-opacity="1"/>
+<rect x="650" y="786" width="200" height="6" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="1"/>
+<rect x="650" y="848" width="200" height="6" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="1"/>
+<rect x="733.4112549695428" y="800" width="52" height="40" rx="0" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1"/>
+<circle cx="759.4112549695428" cy="820" r="8" fill="none" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1"/>
+<path d="M462 778L759 820" fill="none" stroke="#f2f6fb" stroke-width="9" stroke-opacity="0.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M461.2 786.5L758.6 825.9L760.3 814.1L463.7 768.7Z" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="462.42640687119285" cy="777.5735931288071" r="5" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<line x1="785.4112549695428" y1="820" x2="1014" y2="820" stroke="#f2f6fb" stroke-width="5" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="785.4112549695428" y1="817.5" x2="1014" y2="817.5" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1" stroke-linecap="round"/>
+<rect x="895" y="760" width="190" height="120" rx="0" fill="none" stroke="#f2f6fb" stroke-width="2.6" stroke-opacity="1"/>
+<rect x="905" y="770" width="170" height="100" rx="0" fill="none" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<path d="M895 760H1085V772H895ZM895 868H1085V880H895Z" fill="url(#h)" stroke="#f2f6fb" stroke-width="1.2"/>
+<path d="M895 772H907V868H895ZM1073 772H1085V868H1073Z" fill="url(#h)" stroke="#f2f6fb" stroke-width="1.2"/>
+<rect x="1014" y="773" width="30" height="94" rx="0" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1"/>
+<line x1="1014" y1="784" x2="1044" y2="784" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.7" stroke-linecap="round"/>
+<line x1="1014" y1="856" x2="1044" y2="856" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.7" stroke-linecap="round"/>
+<rect x="878" y="808" width="17" height="24" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<rect x="1085" y="808" width="17" height="24" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<line x1="895" y1="820" x2="1300" y2="820" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.5" stroke-dasharray="30 8 6 8" stroke-linecap="round"/>
+<rect x="915" y="694" width="150" height="66" rx="0" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1"/>
+<path d="M915 694H1065V704H915Z" fill="url(#h)"/>
+<path d="M935 760V745H955V760M1025 760V745H1045V760" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="968" y="718" width="46" height="30" rx="0" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1"/>
+<line x1="870" y1="733" x2="968" y2="733" stroke="#f2f6fb" stroke-width="3" stroke-opacity="1" stroke-linecap="round"/>
+<rect x="903" y="726" width="12" height="14" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.4" stroke-opacity="1"/>
+<line x1="400" y1="836" x2="870" y2="733" stroke="#f2f6fb" stroke-width="3" stroke-opacity="1" stroke-linecap="round"/>
+<circle cx="870" cy="733" r="6" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1"/>
+<path d="M950 694V470" fill="none" stroke="#f2f6fb" stroke-width="7" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M950 694V470" fill="none" stroke="#f2f6fb" stroke-width="4" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="950" y1="694" x2="950" y2="470" stroke="#f2f6fb" stroke-width="3" stroke-opacity="1" stroke-linecap="round"/>
+<path d="M950 694V470" stroke="#16467f" stroke-width="3"/>
+<rect x="930" y="600" width="40" height="26" rx="0" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1"/>
+<line x1="930" y1="626" x2="970" y2="600" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linecap="round"/>
+<rect x="926" y="520" width="48" height="30" rx="0" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1"/>
+<line x1="950" y1="520" x2="950" y2="500" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="932" y1="500" x2="968" y2="500" stroke="#f2f6fb" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round"/>
+<path d="M950 470V430" stroke="#f2f6fb" stroke-width="2" marker-end="url(#ar)" transform="rotate(180 950 450)"/>
+<text x="950" y="420" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="20" fill="#f2f6fb" fill-opacity="0.95" text-anchor="middle" font-weight="normal" letter-spacing="0">Para świeża z kotła · 6 atm</text>
+<path d="M1040 694V640H1180V480" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1052 694V652H1192V480" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1186 500V430" stroke="#f2f6fb" stroke-width="2" marker-end="url(#ar)"/>
+<text x="1186" y="405" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="20" fill="#f2f6fb" fill-opacity="0.95" text-anchor="middle" font-weight="normal" letter-spacing="0">Para odlotowa</text>
+<rect x="804" y="766" width="32" height="20" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.8" stroke-opacity="1"/>
+<line x1="820" y1="766" x2="820" y2="560" stroke="#f2f6fb" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="820" y1="580" x2="782" y2="628" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="820" y1="650" x2="790" y2="628" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linecap="round"/>
+<circle cx="776" cy="632" r="14" fill="#16467f" stroke="#f2f6fb" stroke-width="2.2" stroke-opacity="1"/>
+<line x1="820" y1="580" x2="858" y2="628" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="820" y1="650" x2="850" y2="628" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linecap="round"/>
+<circle cx="864" cy="632" r="14" fill="#16467f" stroke="#f2f6fb" stroke-width="2.2" stroke-opacity="1"/>
+<rect x="810" y="646" width="20" height="14" rx="0" fill="#16467f" stroke="#f2f6fb" stroke-width="1.8" stroke-opacity="1"/>
+<path d="M808 560L820 538L832 560Z" fill="none" stroke="#f2f6fb" stroke-width="1.8" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M830 653L880 653L880 613L930 613" fill="none" stroke="#f2f6fb" stroke-width="1.8" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="820" cy="776" r="0" fill="none" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1"/>
+<line x1="422" y1="796" x2="814" y2="770" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.6" stroke-dasharray="10 6" stroke-linecap="round"/>
+<line x1="430" y1="842" x2="826" y2="782" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.6" stroke-dasharray="10 6" stroke-linecap="round"/>
+<line x1="1102" y1="820" x2="1340" y2="820" stroke="#f2f6fb" stroke-width="5" stroke-opacity="1" stroke-linecap="round"/>
+<path d="M1102 790L1150 770H1300L1340 790M1102 850L1150 870H1300L1340 850" fill="none" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1120 980V880H1320V980" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1340" y="730" width="540" height="180" rx="0" fill="none" stroke="#f2f6fb" stroke-width="2.6" stroke-opacity="1"/>
+<path d="M1340 730H1880V742H1340ZM1340 898H1880V910H1340Z" fill="url(#h)" stroke="#f2f6fb" stroke-width="1.2"/>
+<path d="M1340 742H1354V898H1340ZM1866 742H1880V898H1866Z" fill="url(#h)" stroke="#f2f6fb" stroke-width="1.2"/>
+<path d="M1590 742H1610V796H1590ZM1590 844H1610V898H1590Z" fill="url(#h)" stroke="#f2f6fb" stroke-width="1.2"/>
+<rect x="1584" y="790" width="32" height="8" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.4" stroke-opacity="1"/>
+<rect x="1584" y="842" width="32" height="8" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.4" stroke-opacity="1"/>
+<rect x="1318" y="804" width="22" height="32" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.8" stroke-opacity="1"/>
+<line x1="1318" y1="820" x2="1539" y2="820" stroke="#f2f6fb" stroke-width="5" stroke-opacity="1" stroke-linecap="round"/>
+<rect x="1539" y="801" width="260" height="38" rx="0" fill="#16467f" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1"/>
+<line x1="1539" y1="820" x2="1799" y2="820" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.5" stroke-dasharray="20 6 4 6" stroke-linecap="round"/>
+<text x="1410" y="780" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="20" fill="#f2f6fb" fill-opacity="0.8" text-anchor="middle" font-weight="normal" letter-spacing="0">Komora I</text>
+<text x="1810" y="780" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="20" fill="#f2f6fb" fill-opacity="0.8" text-anchor="middle" font-weight="normal" letter-spacing="0">Komora II</text>
+<path d="M1360 980V910M1860 980V910M1560 980V910M1640 980V910" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1425" y="910" width="80" height="70" rx="0" fill="none" stroke="#f2f6fb" stroke-width="2.2" stroke-opacity="1"/>
+<line x1="1431" y1="950" x2="1451" y2="950" stroke="#f2f6fb" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="1479" y1="950" x2="1499" y2="950" stroke="#f2f6fb" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round"/>
+<path d="M1445 944H1485L1477 934H1453Z" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1465" y1="934" x2="1465" y2="920" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linecap="round"/>
+<path d="M1441 980V1050M1489 980V1050" fill="none" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1405 730V640Q1405 600 1465 590Q1525 600 1525 640V730" fill="none" stroke="#f2f6fb" stroke-width="2.6" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1431" y1="700" x2="1451" y2="700" stroke="#f2f6fb" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="1479" y1="700" x2="1499" y2="700" stroke="#f2f6fb" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round"/>
+<path d="M1445 694H1485L1477 684H1453Z" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1465" y1="684" x2="1465" y2="670" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linecap="round"/>
+<rect x="1449" y="572" width="32" height="18" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.8" stroke-opacity="1"/>
+<path d="M1447 572V530M1483 572V530" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1705" y="910" width="80" height="70" rx="0" fill="none" stroke="#f2f6fb" stroke-width="2.2" stroke-opacity="1"/>
+<line x1="1711" y1="950" x2="1731" y2="950" stroke="#f2f6fb" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="1759" y1="950" x2="1779" y2="950" stroke="#f2f6fb" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round"/>
+<path d="M1725 944H1765L1757 934H1733Z" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1745" y1="934" x2="1745" y2="920" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linecap="round"/>
+<path d="M1721 980V1050M1769 980V1050" fill="none" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1685 730V640Q1685 600 1745 590Q1805 600 1805 640V730" fill="none" stroke="#f2f6fb" stroke-width="2.6" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1711" y1="700" x2="1731" y2="700" stroke="#f2f6fb" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="1759" y1="700" x2="1779" y2="700" stroke="#f2f6fb" stroke-width="2.5" stroke-opacity="1" stroke-linecap="round"/>
+<path d="M1725 694H1765L1757 684H1733Z" fill="#16467f" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1745" y1="684" x2="1745" y2="670" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linecap="round"/>
+<rect x="1729" y="572" width="32" height="18" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.8" stroke-opacity="1"/>
+<path d="M1727 572V530M1763 572V530" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1300 1060H1920M1300 1110H1920" fill="none" stroke="#f2f6fb" stroke-width="2.2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1300 1060V1110" fill="none" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="1" stroke-dasharray="6 4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1290 1085H1250" stroke="#f2f6fb" stroke-width="2.4" marker-end="url(#ar)" transform="rotate(180 1270 1085)"/>
+<text x="1240" y="1092" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="20" fill="#f2f6fb" fill-opacity="0.95" text-anchor="end" font-weight="normal" letter-spacing="0">ze studni</text>
+<path d="M1465 1045V1000" stroke="#f2f6fb" stroke-width="2.2" marker-end="url(#ar)"/>
+<path d="M1745 1045V1000" stroke="#f2f6fb" stroke-width="2.2" marker-end="url(#ar)"/>
+<path d="M1447 530V495H2050M1483 530V517H1727V530M1763 530V517H1960" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1763 530V517" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1447 495H1447" fill="none" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1483" y1="517" x2="1727" y2="517" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1" stroke-linecap="round"/>
+<path d="M1447 495H2050" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1483 517H1940" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1940" y="480" width="50" height="52" rx="0" fill="#16467f" stroke="#f2f6fb" stroke-width="2.2" stroke-opacity="1"/>
+<line x1="1952" y1="522" x2="1980" y2="490" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-linecap="round"/>
+<circle cx="1952" cy="522" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<path d="M1990 495H2050M1990 517H2050" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2050 980V520Q2050 430 2140.0 420Q2230 430 2230 520V980" fill="none" stroke="#f2f6fb" stroke-width="3" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2062 980V522Q2062 444 2140.0 434Q2218 444 2218 522V980" fill="none" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="2066" y1="620" x2="2214" y2="620" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="634" x2="2214" y2="634" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="648" x2="2214" y2="648" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="662" x2="2214" y2="662" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="676" x2="2214" y2="676" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="690" x2="2214" y2="690" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="704" x2="2214" y2="704" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="718" x2="2214" y2="718" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="732" x2="2214" y2="732" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="746" x2="2214" y2="746" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="760" x2="2214" y2="760" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="774" x2="2214" y2="774" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="788" x2="2214" y2="788" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="802" x2="2214" y2="802" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="816" x2="2214" y2="816" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="830" x2="2214" y2="830" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="844" x2="2214" y2="844" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="858" x2="2214" y2="858" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="872" x2="2214" y2="872" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="886" x2="2214" y2="886" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="900" x2="2214" y2="900" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="914" x2="2214" y2="914" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="928" x2="2214" y2="928" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="942" x2="2214" y2="942" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="956" x2="2214" y2="956" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2066" y1="970" x2="2214" y2="970" stroke="#f2f6fb" stroke-width="1" stroke-opacity="0.35" stroke-linecap="round"/>
+<line x1="2062" y1="612" x2="2218" y2="612" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linecap="round"/>
+<text x="2140.0" y="585" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="0.9" text-anchor="middle" font-weight="normal" letter-spacing="0">Powietrze</text>
+<path d="M2090 606l6 -8l6 8" fill="none" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2115 606l6 -8l6 8" fill="none" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2140 606l6 -8l6 8" fill="none" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2165 606l6 -8l6 8" fill="none" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2190 606l6 -8l6 8" fill="none" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.8" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="2140" y1="420" x2="2140" y2="380" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-linecap="round"/>
+<rect x="2124" y="360" width="32" height="20" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.8" stroke-opacity="1"/>
+<line x1="2140" y1="360" x2="2140" y2="330" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="2140" y1="345" x2="2195" y2="345" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linecap="round"/>
+<circle cx="2200" cy="345" r="8" fill="none" stroke="#f2f6fb" stroke-width="1.8" stroke-opacity="1"/>
+<path d="M2230 560H2300" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-dasharray="14 8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2230 582H2300" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-dasharray="14 8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="2238" y="545" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="0.9" text-anchor="start" font-weight="normal" letter-spacing="0">z pompy II</text>
+<path d="M2230 880H2300V1150M2230 902H2278V1150" fill="none" stroke="#f2f6fb" stroke-width="2.4" stroke-opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2289 1100V1160" stroke="#f2f6fb" stroke-width="2.4" marker-end="url(#ar)"/>
+<text x="2289" y="1182" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="20" fill="#f2f6fb" fill-opacity="0.95" text-anchor="middle" font-weight="normal" letter-spacing="0">do miasta</text>
+<path d="M1600 506H1660" stroke="#f2f6fb" stroke-width="2" marker-end="url(#ar)"/>
+<path d="M1440 965H1540" stroke="#f2f6fb" stroke-width="0" />
+<path d="M940 935H1060" stroke="#f2f6fb" stroke-width="1.6" marker-end="url(#ar)" marker-start="url(#ar)"/>
+<text x="1000" y="960" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="0.9" text-anchor="middle" font-weight="normal" letter-spacing="0">Skok ≈ 600</text>
+<path d="M120 1290H2290" stroke="#f2f6fb" stroke-width="1.2" marker-start="url(#dm)" marker-end="url(#dm)"/>
+<line x1="120" y1="1190" x2="120" y2="1280" stroke="#f2f6fb" stroke-width="0.8" stroke-opacity="0.6" stroke-linecap="round"/>
+<line x1="2290" y1="1190" x2="2290" y2="1280" stroke="#f2f6fb" stroke-width="0.8" stroke-opacity="0.6" stroke-linecap="round"/>
+<text x="1205.0" y="1280" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="0.95" text-anchor="middle" font-weight="normal" letter-spacing="0">≈ 10850 (długość całkowita urządzenia)</text>
+<text x="1670" y="868" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="0.9" text-anchor="middle" font-weight="normal" letter-spacing="0">Ø ≈ 190</text>
+<line x1="250" y1="580" x2="107.311232826003" y2="146.14901872771185" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="250" cy="580" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="102" cy="130" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="102" y="137" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">1</text>
+<text x="126" y="138" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Koło zamachowe, Ø ≈ 3000</text>
+<line x1="776" y1="632" x2="588.1280370434422" y2="145.85708554540207" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="776" cy="632" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="582" cy="130" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="582" y="137" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">6</text>
+<text x="606" y="138" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Regulator odśrodkowy</text>
+<line x1="990" y1="700" x2="982.238572994891" y2="146.99832588598386" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="990" cy="700" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="982" cy="130" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="982" y="137" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">8</text>
+<text x="1006" y="138" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Skrzynka suwakowa z suwakiem</text>
+<line x1="1465" y1="640" x2="1423.428265692946" y2="146.93989542796393" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="1465" cy="640" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="1422" cy="130" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="1422" y="137" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">11</text>
+<text x="1446" y="138" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Pompa nurnikowa dwustronnego działania</text>
+<line x1="2200" y1="345" x2="2288.915144573813" y2="204.36890399039808" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="2200" cy="345" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="2298" cy="190" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="2298" y="197" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">16</text>
+<text x="2274" y="198" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="end" font-weight="normal" letter-spacing="0">Zawór bezpieczeństwa</text>
+<line x1="462.42640687119285" y1="771.5735931288071" x2="110.95529608881986" y2="204.45000595022603" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="462.42640687119285" cy="771.5735931288071" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="102" cy="190" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="102" y="197" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">2</text>
+<text x="126" y="198" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Korba i wał korbowy</text>
+<line x1="930" y1="613" x2="592.8004948231214" y2="203.1281876729321" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="930" cy="613" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="582" cy="190" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="582" y="197" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">7</text>
+<text x="606" y="198" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Przepustnica</text>
+<line x1="1745" y1="690" x2="1509.4309018263007" y2="205.28992145329343" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="1745" cy="690" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="1502" cy="190" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="1502" y="197" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">13</text>
+<text x="1526" y="198" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Zawory tłoczne</text>
+<line x1="1965" y1="480" x2="1792.5845107342348" y2="263.3029369883823" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="1965" cy="480" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="1782" cy="250" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="1782" y="257" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">14</text>
+<text x="1806" y="258" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Klapa zwrotna</text>
+<line x1="560" y1="800" x2="112.8784615535768" y2="263.06365470407695" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="560" cy="800" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="102" cy="250" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="102" y="257" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">5</text>
+<text x="126" y="258" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Korbowód</text>
+<line x1="370" y1="856" x2="121.92102045571698" y2="1201.1951692108435" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="370" cy="856" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="112" cy="1215" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="112" y="1222" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">3</text>
+<text x="136" y="1223" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Mimośród (rozrząd)</text>
+<line x1="700" y1="850" x2="432.30050182043476" y2="1201.4759598400767" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="700" cy="850" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="422" cy="1215" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="422" y="1222" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">4</text>
+<text x="446" y="1223" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Wodzik z prowadnicą</text>
+<line x1="960" y1="880" x2="770.6498700796898" y2="1200.3651188045653" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="960" cy="880" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="762" cy="1215" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="762" y="1222" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">9</text>
+<text x="786" y="1223" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Cylinder parowy z tłokiem</text>
+<line x1="1200" y1="820" x2="1125.2933657198735" y2="1198.3220582134616" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="1200" cy="820" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="1122" cy="1215" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="1122" y="1222" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">10</text>
+<text x="1146" y="1223" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Tłoczysko przelotowe</text>
+<line x1="1745" y1="955" x2="1454.9013492229878" y2="1203.9295353202085" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="1745" cy="955" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="1442" cy="1215" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="1442" y="1222" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">12</text>
+<text x="1466" y="1223" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Zawory ssawne</text>
+<line x1="2090" y1="940" x2="1735.6177416508992" y2="1204.8236984945727" stroke="#f2f6fb" stroke-width="1.2" stroke-opacity="0.85" stroke-linecap="round"/>
+<circle cx="2090" cy="940" r="4" fill="#f2f6fb" stroke="#f2f6fb" stroke-width="0" stroke-opacity="1"/>
+<circle cx="1722" cy="1215" r="17" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="1722" y="1222" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="19" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="0">15</text>
+<text x="1746" y="1223" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Kocioł wietrzny 1500 l</text>
+<line x1="42" y1="1320" x2="2358" y2="1320" stroke="#f2f6fb" stroke-width="2" stroke-opacity="1" stroke-linecap="round"/>
+<text x="70" y="1360" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="bold" letter-spacing="2">ZASADA DZIAŁANIA</text>
+<text x="70" y="1398" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">1. Para z kotła (6 atm) przez przepustnicę (7) i suwak (8) napędza tłok w cylindrze parowym (9).</text>
+<text x="70" y="1428" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">2. Tłoczysko przelotowe (10): do przodu przez wodzik (4) i korbowód (5) obraca wał z kołem zamachowym (1),</text>
+<text x="70" y="1458" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">    do tyłu bezpośrednio przesuwa nurnik pompy (11). Mimośród (3) steruje suwakiem, regulator (6) dławi parę.</text>
+<text x="70" y="1488" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">3. Nurnik w prawo: komora II tłoczy, komora I zasysa; w lewo – odwrotnie (pompa dwustronnego działania).</text>
+<text x="70" y="1518" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">4. Woda przez klapę zwrotną (14) trafia do wspólnego kotła wietrznego (15), który wyrównuje pulsację, i do miasta.</text>
+<rect x="1290" y="1338" width="520" height="224" rx="0" fill="none" stroke="#f2f6fb" stroke-width="1.6" stroke-opacity="1"/>
+<text x="1310" y="1368" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="20" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="bold" letter-spacing="0">DANE (wg opisu stacji z 1893 r.)</text>
+<text x="1310" y="1400" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="0.95" text-anchor="start" font-weight="normal" letter-spacing="0">2 maszyny parowe + 2 pompy, praca naprzemienna</text>
+<text x="1310" y="1424" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="0.95" text-anchor="start" font-weight="normal" letter-spacing="0">Wydajność: 1500 m³/d na pompę przy 20 h/d</text>
+<text x="1310" y="1448" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="0.95" text-anchor="start" font-weight="normal" letter-spacing="0">= 1250 l/min na pompę</text>
+<text x="1310" y="1472" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="0.95" text-anchor="start" font-weight="normal" letter-spacing="0">Kocioł: 54 m² pow. ogrzewalnej, 6 atm nadciśn.</text>
+<text x="1310" y="1496" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="0.95" text-anchor="start" font-weight="normal" letter-spacing="0">+ drugi kocioł rezerwowy</text>
+<text x="1310" y="1520" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="0.95" text-anchor="start" font-weight="normal" letter-spacing="0">Wspólny kocioł wietrzny dla obu pomp</text>
+<text x="1310" y="1544" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="18" fill="#f2f6fb" fill-opacity="0.95" text-anchor="start" font-weight="normal" letter-spacing="0">Rezerwa miejsca na 3. pompę</text>
+<rect x="1830" y="1338" width="500" height="224" rx="0" fill="none" stroke="#f2f6fb" stroke-width="2.2" stroke-opacity="1"/>
+<line x1="1830" y1="1400" x2="2330" y2="1400" stroke="#f2f6fb" stroke-width="1.4" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="1830" y1="1500" x2="2330" y2="1500" stroke="#f2f6fb" stroke-width="1.4" stroke-opacity="1" stroke-linecap="round"/>
+<line x1="2080" y1="1500" x2="2080" y2="1562" stroke="#f2f6fb" stroke-width="1.4" stroke-opacity="1" stroke-linecap="round"/>
+<text x="2080" y="1378" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="bold" letter-spacing="1">WODOCIĄGI · MASZYNOWNIA 1893</text>
+<text x="2080" y="1436" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="normal" letter-spacing="0">Maszyna parowa z pompą nurnikową</text>
+<text x="2080" y="1466" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="22" fill="#f2f6fb" fill-opacity="1" text-anchor="middle" font-weight="normal" letter-spacing="0">dwustronnego działania – przekrój podłużny</text>
+<text x="2080" y="1490" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="16" fill="#f2f6fb" fill-opacity="0.85" text-anchor="middle" font-weight="normal" letter-spacing="0">(schemat ideowy)</text>
+<text x="1842" y="1522" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="17" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Skala ≈ 1:50</text>
+<text x="1842" y="1548" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="17" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Wymiary w mm, szacunkowe</text>
+<text x="2092" y="1522" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="17" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">Rekonstrukcja 2026</text>
+<text x="2092" y="1548" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="17" fill="#f2f6fb" fill-opacity="1" text-anchor="start" font-weight="normal" letter-spacing="0">T. Owsiak / ZWiK Prudnik</text>
+<text x="70" y="1550" font-family="DejaVu Sans Condensed, DejaVu Sans, sans-serif" font-size="17" fill="#f2f6fb" fill-opacity="0.8" text-anchor="start" font-weight="normal" letter-spacing="0">Uwaga: wymiary szacunkowe, odczytane z proporcji zdjęcia; skok i Ø nurnika dobrane tak, aby przy ok. 40 obr./min dać 1250 l/min.</text>
+</svg>
